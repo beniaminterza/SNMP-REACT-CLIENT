@@ -25,7 +25,7 @@ a {
 .buttonLink {
     text-decoration: none;
     width: 150px;
-    border-radius: 100px;
+    border-radius: 10px;
     border: none;
     color: white;
     background-color: #fb439e;

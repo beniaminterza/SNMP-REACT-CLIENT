@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import SidebarElem from "./SidebarElem";
 import "../Style/SideBar.css";
 
-import logo from "../Images/LOGO.png";
+import logo from "../Images/LOGO.svg";
 import home from "../Images/home-solid.svg";
 import walk from "../Images/walking-solid.svg";
 import radar from "../Images/radar.svg";
@@ -46,7 +46,7 @@ export default function Sidebar({
                 <img src={logo} alt="snmp web logo" className="logo" />
             </div>
             <SidebarElem
-                link={"/SNMP-REACT-Client"}
+                link={"/SNMP-REACT-Client/"}
                 img={home}
                 title="Home"
                 alt="home"

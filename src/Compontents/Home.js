@@ -42,7 +42,7 @@ export default function Home() {
                         title="Scan Network"
                         description="Scan a network to see all the devices that use SNMP"
                         index="e2"
-                        link=""
+                        link="/scanNetwork"
                     />
                     <ExploreContent
                         src={trap}
