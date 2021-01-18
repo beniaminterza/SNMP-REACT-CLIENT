@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SNMP-REACT-Client/static/css/main.7dcf3d40.chunk.css",
-    "main.js": "/SNMP-REACT-Client/static/js/main.35d7d960.chunk.js",
-    "main.js.map": "/SNMP-REACT-Client/static/js/main.35d7d960.chunk.js.map",
+    "main.js": "/SNMP-REACT-Client/static/js/main.46f137b9.chunk.js",
+    "main.js.map": "/SNMP-REACT-Client/static/js/main.46f137b9.chunk.js.map",
     "runtime-main.js": "/SNMP-REACT-Client/static/js/runtime-main.d415dca2.js",
     "runtime-main.js.map": "/SNMP-REACT-Client/static/js/runtime-main.d415dca2.js.map",
     "static/js/2.2b175965.chunk.js": "/SNMP-REACT-Client/static/js/2.2b175965.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/SNMP-REACT-Client/index.html",
     "static/css/main.7dcf3d40.chunk.css.map": "/SNMP-REACT-Client/static/css/main.7dcf3d40.chunk.css.map",
     "static/js/2.2b175965.chunk.js.LICENSE.txt": "/SNMP-REACT-Client/static/js/2.2b175965.chunk.js.LICENSE.txt",
-    "static/media/LOGO.a888a27a.svg": "/SNMP-REACT-Client/static/media/LOGO.a888a27a.svg",
+    "static/media/LOGO.7b27e9d7.svg": "/SNMP-REACT-Client/static/media/LOGO.7b27e9d7.svg",
     "static/media/check-solid.4c2f928b.svg": "/SNMP-REACT-Client/static/media/check-solid.4c2f928b.svg",
     "static/media/codeicon.ef94cb46.svg": "/SNMP-REACT-Client/static/media/codeicon.ef94cb46.svg",
     "static/media/cog-icon.55787e54.svg": "/SNMP-REACT-Client/static/media/cog-icon.55787e54.svg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.d415dca2.js",
     "static/js/2.2b175965.chunk.js",
     "static/css/main.7dcf3d40.chunk.css",
-    "static/js/main.35d7d960.chunk.js"
+    "static/js/main.46f137b9.chunk.js"
   ]
 }
